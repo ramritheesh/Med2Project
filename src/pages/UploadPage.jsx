@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Upload, FileText, Image as ImageIcon, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
 import { Button } from '../components/ui/button';
 import { toast } from '../components/ui/use-toast';
-import { extractMedicationsFromPrescription } from '../lib/prescriptionParser';
+import { extractMedicationsFromPrescription } from '../lib/PrescriptionParser';
 import { useNavigate } from 'react-router-dom';
 
 const UploadPage = () => {
