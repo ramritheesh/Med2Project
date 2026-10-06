@@ -118,8 +118,6 @@ http://localhost:5173
 
 <img width="100%" src="screenshots/home.png" alt="MediCare Home">
 
-> Create a folder named **screenshots** and add your homepage image as `home.png`.
-
 ---
 
 ## 🔮 Future Enhancements
